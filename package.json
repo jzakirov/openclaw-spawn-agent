@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jzakirov/spawn-agent.git"
+    "url": "git+https://github.com/jzakirov/openclaw-spawn-agent.git"
   },
   "keywords": ["openclaw", "openclaw-plugin", "subagent", "spawn-agent", "agent-presets"],
   "files": ["index.ts", "src", "subagents", "openclaw.plugin.json", "README.md", "LICENSE"],
