@@ -1,6 +1,6 @@
 {
   "name": "@jzakirov/spawn-agent",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "description": "Declarative subagent presets with tool enforcement for OpenClaw",
   "license": "MIT",
